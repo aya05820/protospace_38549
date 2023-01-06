@@ -49,6 +49,7 @@ class PrototypesController < ApplicationController
     end
   end
 
+
   private
 
   def prototype_params
